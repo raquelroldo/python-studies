@@ -1,0 +1,30 @@
+1 - Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
+between 2000 and 3200 (both included).
+The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+2 - Define a class which has at least two methods:
+getString: to get a string from console input
+printString: to print the string in upper case.
+Hints:
+Use __init__ method to construct some parameters
+
+3- Faça um programa que leia 2 strings e informe o conteúdo delas seguido do seu comprimento.
+Informe também se as duas strings possuem o mesmo comprimento e são iguais ou diferentes no conteúdo.
+
+4 - Faça um programa que permita ao usuário digitar o seu nome e em seguida mostre o nome do
+usuário de trás para frente utilizando somente letras maiúsculas.
+Dica: lembre−se que ao informar o nome o usuário pode digitar letras maiúsculas ou minúsculas.
+
+5 - Faça um programa que solicite o nome do usuário e imprima-o na vertical.
+
+6 - Modifique o programa anterior de forma a mostrar o nome em formato de escada.
+
+7 - Altere o programa anterior de modo que a escada seja invertida.
+
+8 - Faça um programa que solicite a data de nascimento (dd/mm/aaaa) do usuário e imprima a data com o nome do mês por extenso.
+
+ 9 - Dado uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte:
+	quantos espaços em branco existem na frase.
+	quantas vezes aparecem as vogais a, e, i, o, u.
+
+10 - Desenvolva um programa que solicite a digitação de um número de CPF no formato xxx.xxx.xxx-xx e indique se é um número válido ou inválido através da validação dos dígitos verificadores edos caracteres de formatação.
