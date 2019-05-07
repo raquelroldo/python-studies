@@ -1,7 +1,7 @@
 
 
 def transformer():
-    name = input("Enter your name ")
+    name = input("Digite seu nome ")
     name = name.upper()
     transf = ""
     for x in reversed(name):

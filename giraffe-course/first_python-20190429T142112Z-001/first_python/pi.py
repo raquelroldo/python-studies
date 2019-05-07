@@ -32,21 +32,21 @@ friends2 = friends.copy()
 #friends.reverse()
 print(friends2)"""
 
-"""###Tuples are unmutable, doesnt accept changes
-coordinates = [(4, 5), (8, 9), (50, 85)]
+###Tuples are unmutable, doesnt accept changes
+"""coordinates = [(4, 5), (8, 9), (50, 85)]
 coordinates[1] = 10
 print(coordinates[0])"""
 
-"""###Functions
+###Functions
 
-def say_hi(name, age):
+"""def say_hi(name, age):
     print("Hello " + name + " you are " + age)
 say_hi("Maria", "50")
 say_hi("Marco", "45")"""
 
-"""###Return Statement
+###Return Statement
 
-def cube(num):
+"""def cube(num):
    return num*num*num
 
 result = cube(5)
@@ -122,10 +122,8 @@ p3 = float(input("Enter second number: "))
 
 print(operator(ope, p1, p3))"""
 
-"""## Dictionary
-
-
-monthConversions = {
+## Dictionary
+'''monthConversions = {
     "Jan": "January",
     "Feb": "February",
     "Mar": "March",
@@ -140,8 +138,8 @@ monthConversions = {
     "Dec": "December",
 }
 
-print(monthConversions["Feb"])
-print(monthConversions.get("1", "Not a valid key"))"""
+print(monthConversions["01"])
+print(monthConversions.get("1", "Not a valid key"))'''
 
 """### While Loop
 
